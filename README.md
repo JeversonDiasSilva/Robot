@@ -1,8 +1,6 @@
 # Robot
 Bot para o discord. 100% em python3
 
-
-# Robot
 # Bot em python3 para o discord.
 <br>
 
@@ -54,6 +52,7 @@ source myenv/bin/activate
 ```
 
 <br>
+
 # 3- Instale as dependências
 
 ```bash
