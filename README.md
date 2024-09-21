@@ -20,6 +20,7 @@ Bot para o discord. 100% em python3
 
 # Conteúdo do ".env"
 <br>
+
 ```bash
 TOKEN = 'seu_token_aqui'
 ```
@@ -32,6 +33,7 @@ TOKEN = 'seu_token_aqui'
 # ..(RODAR O COMANDOS A BAIXO CASO NÃO TENHA AS BIBLIOTECAS INSTALADAS)
 
 # 1- Crie o ambiente virtual
+
 ```bash
 python3 -m venv myenv
 ```
@@ -40,23 +42,27 @@ python3 -m venv myenv
 # 2- Ative o ambiente virtual
 <br>
 # No Windows:
+
 ```bash
 myenv\Scripts\activate
 ```
 
 # No macOS e Linux:
+
 ```bash
 source myenv/bin/activate
 ```
 
 <br>
 # 3- Instale as dependências
+
 ```bash
 pip install -r requirements.txt
 ```
 
 # Depois que estiver tudo ok,
 <br>
+
 ```bash
 ./robot.sh
 ```
